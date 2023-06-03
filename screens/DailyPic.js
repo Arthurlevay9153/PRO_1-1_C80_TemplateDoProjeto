@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
         color: "white",
         marginTop: 10
         // margin: 10,
-        // textAlign: 'center'
+        
     },
     listContainer: {
         backgroundColor: 'rgba(52, 52, 52, 0.5)',
